@@ -7,6 +7,6 @@ class sum
 		b=25;
 		res=a+b;
 		system.out.println("sum of 10 & 25 is :"+res);
-		system.out.println("Thank you");
+		system.out.println("Thank you & have a nice day");
 	}
 }
